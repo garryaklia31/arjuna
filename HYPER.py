@@ -26,7 +26,7 @@ from string import ascii_letters
 from httpx import AsyncClient, Response, RemoteProtocolError, ProxyError, ReadTimeout
 fake = Faker()
 
-bot_token = "7111786402:AAFAPBS2T-87Q9jj19N4YljQ6yveLClz2UU"
+bot_token = "7147058861:AAF2EkuHS-LzkUdudvU2xWx0MD0SNZsUtNY"
 
 bot=telebot.TeleBot(bot_token,parse_mode="HTML")
 
